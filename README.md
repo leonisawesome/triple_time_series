@@ -8,7 +8,7 @@ liked to grid search from 0-24 for PDQ (you can see I stopped it midway through.
 
 The comments precede the code and the relevant Markdown immediately follows it.
 Even though I could tell the data was stationary I Intentionally did a lot of tests for stationary / vs not stationary 
-since this is a key factor in time series and I wanted you guys to see I understood that and could execute it.
+since this is a key factor in time series.
  
 ### Future ideas:
 * Automate building all the other models

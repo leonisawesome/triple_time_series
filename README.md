@@ -1,4 +1,4 @@
-###Comments
+### Comments
 I initially did this as a take home test for a company and I ran low on time so instead of building out 148 models,
 plots & predictions (one for each buyer_id) and then cumulative ones (listed below), I just showed a bunch of different
 techniques for one that I randomly selected.

@@ -4,7 +4,7 @@ plots & predictions (one for each buyer_id) and then cumulative ones (listed bel
 techniques for one that I randomly selected.
 
 It is possible I could have gotten a better AIC score.  I just ran out of computation time but ideally I would have 
-liked to grid search from 0-24 for PDQ (you can see I stopped it midway through
+liked to grid search from 0-24 for PDQ (you can see I stopped it midway through.)
 
 The comments precede the code and the relevant Markdown immediately follows it.
 Even though I could tell the data was stationary I Intentionally did a lot of tests for stationary / vs not stationary 
